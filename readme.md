@@ -31,3 +31,7 @@ If you'd like to contribute to the Daily Python Assignments repository, we welco
 ## :open_book: License
 
 This project is licensed under the MIT License.
+
+## :man_technologist: Contributor
+
+[Pradeep](https://www.linkedin.com/in/pradeepchandra-reddy-s-c/)
