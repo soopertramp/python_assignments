@@ -1,15 +1,15 @@
-## :python: Daily Python Assignments
+## :snake: Daily Python Assignments
 Welcome to the Daily Python Assignments repository! This initiative is designed to help you practice your Python skills and learn new techniques that are useful for data analysis and machine learning.
 
 Each day, we'll post a new Python assignment that you can try to solve on your own. The assignments will start with basic concepts like printing "Hello World", and gradually progress to more advanced topics.
 
-## Getting Started
+## :loudspeaker: Getting Started
 
-### Prerequisites
+## :computer: Prerequisites
 
 To participate in the Daily Python Assignments, you'll need to have Python installed on your computer. You can download Python for free from the official website: https://www.python.org/downloads/
 
-### Installation
+## :cd: Installation
 
 To get started with the assignments, follow these steps:
 
@@ -18,7 +18,7 @@ To get started with the assignments, follow these steps:
 - Each assignment will have its own file with instructions and code stubs.Edit the file to complete the assignment.
 - Once you've completed an assignment, submit your code by creating a pull request.
 
-### Contributing
+## :pen: Contributing
 
 If you'd like to contribute to the Daily Python Assignments repository, we welcome your input! Here are a few ways you can help:
 
@@ -28,6 +28,6 @@ If you'd like to contribute to the Daily Python Assignments repository, we welco
 
 - Help review submissions: As participants submit their solutions to the assignments, we welcome others to review the code and provide feedback.
 
-### License
+## :open_book: License
 
 This project is licensed under the MIT License.
