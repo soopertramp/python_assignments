@@ -10,7 +10,7 @@ a,b = b,a
 import random
 
 random_number = random.randint(1, 100)
-print(random_number)
+print(random_number) 
 
 """ Question - 6 : Write a Python program to convert celsius to fahrenheit """
 
